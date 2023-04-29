@@ -1,0 +1,30 @@
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\bin\Debug\net6.0\Letters Code.exe
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\bin\Debug\net6.0\Letters Code.deps.json
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\bin\Debug\net6.0\Letters Code.runtimeconfig.json
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\bin\Debug\net6.0\Letters Code.dll
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\bin\Debug\net6.0\Letters Code.pdb
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\obj\Debug\net6.0\Letters Code.csproj.AssemblyReference.cache
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\obj\Debug\net6.0\Letters Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\obj\Debug\net6.0\Letters Code.AssemblyInfoInputs.cache
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\obj\Debug\net6.0\Letters Code.AssemblyInfo.cs
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\obj\Debug\net6.0\Letters Code.csproj.CoreCompileInputs.cache
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\obj\Debug\net6.0\Letters Code.dll
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\obj\Debug\net6.0\refint\Letters Code.dll
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\obj\Debug\net6.0\Letters Code.pdb
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\obj\Debug\net6.0\Letters Code.genruntimeconfig.cache
+C:\Users\Ashley\Rolani\Work\AATE\Code\Apps\Letters Code\obj\Debug\net6.0\ref\Letters Code.dll
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\bin\Debug\net6.0\Letters Code.exe
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\bin\Debug\net6.0\Letters Code.deps.json
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\bin\Debug\net6.0\Letters Code.runtimeconfig.json
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\bin\Debug\net6.0\Letters Code.dll
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\bin\Debug\net6.0\Letters Code.pdb
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\obj\Debug\net6.0\Letters Code.csproj.AssemblyReference.cache
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\obj\Debug\net6.0\Letters Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\obj\Debug\net6.0\Letters Code.AssemblyInfoInputs.cache
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\obj\Debug\net6.0\Letters Code.AssemblyInfo.cs
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\obj\Debug\net6.0\Letters Code.csproj.CoreCompileInputs.cache
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\obj\Debug\net6.0\Letters Code.dll
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\obj\Debug\net6.0\refint\Letters Code.dll
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\obj\Debug\net6.0\Letters Code.pdb
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\obj\Debug\net6.0\Letters Code.genruntimeconfig.cache
+C:\Users\Ashley\Rolani\Work\AATE\Code\Code Check\FinalDraft\Letters Code\obj\Debug\net6.0\ref\Letters Code.dll
